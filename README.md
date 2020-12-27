@@ -1,4 +1,4 @@
-# fractal Mandelbrot using Multithreading JAVA & OpenCV C++
+# Fractal Mandelbrot using Multithreading JAVA & OpenCV C++
 
 <img src="ScreenShot/mandelbrotParallel.png"/>
 <img src="ScreenShot/mandelbrotcpp.png"/>
